@@ -1,1 +1,0 @@
-# VSBM - Variable Size Bitmap
