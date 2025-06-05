@@ -1,2 +1,2 @@
 # RAWR
-RAWR is a large collection of custom standardized small file formats.
+RAWR is a collection of custom standardized small file formats.
