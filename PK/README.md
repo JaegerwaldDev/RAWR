@@ -1,6 +1,6 @@
 # PK - Package
 
-Or RwPK to be specific
+Or NyPK to be specific
 
 This is a simple archive type standard, that can store multiple files in one.
 There is no compression algorithm applied.
